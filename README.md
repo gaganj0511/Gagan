@@ -6,11 +6,11 @@ Investigated a cyberattack and produced a comprehensive report documenting findi
 Conducted a comprehensive risk assessment
 
 Key Skills: 
-Analytical Skills
-Communication
-OSINT
-Research
-Risk Assessment
-Risk Management
-Security
+Analytical Skills,
+Communication,
+OSINT,
+Research,
+Risk Assessment,
+Risk Management,
+Security,
 Security Analysis
